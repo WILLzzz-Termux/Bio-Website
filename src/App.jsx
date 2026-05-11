@@ -2,8 +2,8 @@ import { motion } from "framer-motion";
 import { FaYoutube, FaInstagram, FaTiktok, FaTelegram, FaWhatsapp } from "react-icons/fa";
 
 const profile = {
-  name: "verlangid",
-  bio: "Creative Developer",
+  name: "Wilzz China",
+  bio: "Only Telegram and WhatsApp bot developers.",
   avatar: "https://files.catbox.moe/hvgset.jpg" // 🔥 GANTI dengan foto kamu
 };
 
