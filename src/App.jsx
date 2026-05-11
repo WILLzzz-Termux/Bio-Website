@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { FaYoutube, FaInstagram, FaTiktok, FaTelegram, FaWhatsapp } from "react-icons/fa";
 
 const profile = {
-  name: "Wilzz China",
+  name: "WILLzzz Market",
   bio: "Only Telegram and WhatsApp bot developers.",
   avatar: "https://files.catbox.moe/hvgset.jpg" // 🔥 GANTI dengan foto kamu
 };
@@ -83,7 +83,7 @@ export default function App() {
 
         {/* FOOTER */}
         <p className="text-center text-xs text-zinc-500 mt-8">
-          © 2026 Bio Pro
+          © 2026-2027 WILLzzz Market
         </p>
       </div>
     </div>
